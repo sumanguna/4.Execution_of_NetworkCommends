@@ -1,9 +1,8 @@
 # EX.NO:4.                Execution of NetworkCommands
-
+### NAME:Suman G
+### REG.NO: 212223240163
 ## AIM:
 Use of Network commands in Real Time environment
-### NAME: sumanguna
-### REG.NO: 212222240046
 ## Software:
 Command Prompt And Network Protocol Analyzer
 
